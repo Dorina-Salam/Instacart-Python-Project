@@ -1,4 +1,5 @@
 # Instacart Analysis- Python Project
+![Instacart_logo](https://github.com/Dorina-Salam/Instacart-Python-Project/assets/146798229/6b6f1999-9e88-4c94-a448-95e736f8fae4)
 
 ## Context
 Instacart is an app for an online grocery store and they are interested in finding patterns or insights about their sales. The purpose of this project is to perform an exploratory analysis of their data to derive insights and suggestions based on their customer's buying habits. This project is designed to aid in developing a targeted marketing strategy based on different customer needs. 
